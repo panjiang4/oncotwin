@@ -41,7 +41,7 @@ export const VirtualTumorModelTab: React.FC<VirtualTumorModelTabProps> = ({ pati
       <Card title="OncoTwin® Closed-Loop System Visualization">
         <div className="p-4 border border-neutral-medium rounded-lg bg-neutral-lightest shadow">
           <img 
-            src="/oncotwin_closed_loop_diagram.png"
+            src="https://github.com/panjiang4/oncotwin/blob/main/oncotwin_closed_loop_diagram.png"
             alt="OncoTwin Closed-Loop System Diagram" 
             className="w-full h-auto object-contain rounded-md" 
           />
