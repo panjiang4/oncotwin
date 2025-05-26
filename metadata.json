@@ -1,0 +1,6 @@
+{
+  "name": "OncoTwin® Demo Platform",
+  "description": "A demonstration platform for OncoTwin®, showcasing how it can help oncologists make better, data-driven treatment decisions for Colorectal Cancer (CRC), integrating multi-modal data and interpretable AI for personalized medicine.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
